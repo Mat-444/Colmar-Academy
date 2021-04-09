@@ -403,7 +403,7 @@ footer a {
     
     .body {
         width: 100%;
-        border: 1px solid red;
+        
     }
         .banniere {
         display: block;
@@ -412,14 +412,14 @@ footer a {
     }
         .banniere img {
         width: 100%;
-        border: 1px solid blue;
+        
         margin: 0;
         
         padding:0;
     }
 
     .banniere_texte {
-        border: 1px solid red;  
+       
         margin-top: 32px; 
         
         display: inline;
